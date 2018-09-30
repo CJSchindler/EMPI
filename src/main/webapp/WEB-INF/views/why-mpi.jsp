@@ -8,10 +8,10 @@
 	<meta name="author" content="envatoprime">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<!-- site title -->
-	<title>Corporato - Business and Corporate HTML Template</title>
+	<title>Information Softworks</title>
 
 	<!--FAVICON ICON-->
-	<link rel="shortcut icon" type="image/ico" href="images/fav-icon.png">
+	<link rel="shortcut icon" type="image/ico" href="images/InfoSoft.jpg">
 
 	<!-- Google font links  -->
 	<link href="https://fonts.googleapis.com/css?family=Ubuntu:400,500,700" rel="stylesheet">
@@ -48,7 +48,7 @@
 	<nav class="navbar navbar-expand-lg ">
 		<div class="container">
 			<a class="navbar-brand" href="#">
-				<img src="images/logo.png" alt="">
+				<img src="images/InfoSoft.png" alt="">
 			</a>
 			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
 			 aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -93,9 +93,8 @@
 				<div class="overlay"></div>
 				<div class="slide-caption">
 					<div class="slider-inner">
-						<h1 class="caption-title">The Most Prestigious business Consulting Firm</h1>
-						<p class="caption-desc">A consulting or consultancy firm is a business of one or more experts that provides
-							professional advice.</p>
+						<h1 class="caption-title">Find matching records with 99.9% probability</h1>
+						<p class="caption-desc">A high performance Master Person Index is pretty awesome</p>
 						<div class="slide-btn">
 							<a class="animated fadeInUpBig" href="#">Our Services</a>
 							<a class="animated fadeInUpBig" href="#">Contact us</a>
@@ -110,9 +109,8 @@
 				<div class="overlay"></div>
 				<div class="slide-caption">
 					<div class="slider-inner">
-						<h1 class="caption-title">The Most Prestigious business Consulting Firm</h1>
-						<p class="caption-desc">A consulting or consultancy firm is a business of one or more experts that provides
-							professional advice.</p>
+						<h1 class="caption-title">Winner of Patient Matching Algorithm Challenge</h1>
+						<p class="caption-desc">National competition of patient matching algorithms</p>
 						<div class="slide-btn">
 							<a class="animated fadeInUpBig" href="#">Our Services</a>
 							<a class="animated fadeInUpBig" href="#">Contact us</a>
@@ -128,9 +126,8 @@
 				<div class="slide-caption">
 					<div class="slider-inner">
 						<div class="slider-inner">
-							<h1 class="caption-title">The Most Prestigious business Consulting Firm</h1>
-							<p class="caption-desc">A consulting or consultancy firm is a business of one or more experts that provides
-								professional advice.</p>
+							<h1 class="caption-title">How does your current EMPI measure up?</h1>
+							<p class="caption-desc"></p>
 							<div class="slide-btn">
 								<a class="animated fadeInUpBig" href="#">Our Services</a>
 								<a class="animated fadeInUpBig" href="#">Contact us</a>

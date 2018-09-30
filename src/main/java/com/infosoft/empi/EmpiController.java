@@ -1,9 +1,11 @@
-package com.infosoft.empi.controller;
+package com.infosoft.empi;
 
+import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.servlet.ModelAndView;
 
-public class Controller {
+@Controller
+public class EmpiController {
 
 	// shows login page
 	@RequestMapping("/")
@@ -14,7 +16,13 @@ public class Controller {
 	// new jsp for index
 	@RequestMapping("/home")
 	public ModelAndView showHomePage() {
-		ModelAndView mav = new ModelAndView("/home");
+		ModelAndView mav = new ModelAndView("home");
+		return mav;
+	}
+	// new jsp for index
+	@RequestMapping("/why-mpi")
+	public ModelAndView whyMpi() {
+		ModelAndView mav = new ModelAndView("why-mpi");
 		return mav;
 	}
 
