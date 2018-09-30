@@ -93,7 +93,7 @@
 				<div class="overlay"></div>
 				<div class="slide-caption">
 					<div class="slider-inner">
-						<h1 class="caption-title">Find matching records with 99.9% probability</h1>
+						<h1 class="caption-title">OMG it works!</h1>
 						<p class="caption-desc">A high performance Master Person Index is pretty awesome</p>
 						<div class="slide-btn">
 							<a class="animated fadeInUpBig" href="#">Our Services</a>
