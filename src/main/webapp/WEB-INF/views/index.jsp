@@ -11,7 +11,7 @@
 	<title>Information Softworks</title>
 
 	<!--FAVICON ICON-->
-	<link rel="shortcut icon" type="image/ico" href="images/InfoSoft.jpg">
+	<link rel="shortcut icon" type="image/ico" href="images/isfavicon.ico" />
 
 	<!-- Google font links  -->
 	<link href="https://fonts.googleapis.com/css?family=Ubuntu:400,500,700" rel="stylesheet">
@@ -61,20 +61,20 @@
 						<a class="nav-link" href="#slider">Home</a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link" href="#about">About</a>
+						<a class="nav-link" href="#about">EMPI 101</a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link" href="#service">Service</a>
+						<a class="nav-link" href="#service">Compare</a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link" href="#portfolio">Gallery</a>
+						<a class="nav-link" href="#portfolio">Clients</a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link" href="#team">Team</a>
+						<a class="nav-link" href="#team">Try it</a>
 					</li>
-					<li class="nav-item">
+					<!-- <li class="nav-item">
 						<a class="nav-link" href="#pricing">Pricing</a>
-					</li>
+					</li> -->
 					<li class="nav-item">
 						<a class="nav-link" href="#consult">Contact</a>
 					</li>
@@ -1076,37 +1076,38 @@
 				<div class="row">
 					<div class="col-12 text-center">
 						<div class="f-logo">
-							<img src="images/logo.png" alt="">
+							<img src="images/InfoSoft.png" alt="">
 						</div>
 					</div>
 				</div>
 				<div class="row">
-					<div class="col-lg-3 col-sm-6 about-widget">
-						<h6 class="title">About OUR Consulting</h6>
-						<p>That started from this tropic port aboard this tiny ship today still want by theam.</p>
+					<div class="col-lg-8 col-sm-6 about-widget">
+						<h6 class="title">Ready to take the next step?</h6>
+						<p>Contact us for your free audit.</p>
+						<p>It's time to optimize your EHR integration with the highest performance EMPI available.</p>
 						<div class="queries">
 							<i class="fa fa-map-marker" aria-hidden="true"></i>
-							<a href="#">123, USA New work.</a>
+							<a href="#">Ann Arbor, MI 48108</a>
 							<br>
 							<i class="fa fa-phone" aria-hidden="true"></i>
-							<a href="#">(+1) 234 567 900</a>
+							<a href="#">734 905 3600</a>
 							<br>
 							<i class="fa fa-envelope" aria-hidden="true"></i>
-							<a href="#">demo@gmail.com</a>
+							<a href="mailto:contracting_info@informationsoftworks.com">contracting_info@informationsoftworks.com</a>
 						</div>
 					</div>
 					<!-- /.about-widget -->
-					<div class="col-lg-3 col-sm-6  footer-list fl-1">
+					<div class="col-lg-4 col-sm-6  footer-list fl-1">
 						<h6 class="title">Helpful Links</h6>
 						<ul>
 							<li>
-								<a href="#">About Us</a>
+								<a href="https://www.hhs.gov/about/news/2017/11/08/hhs-names-patient-matching-algorithm-challenge-winners.html">Patient Matching Algorithm Challenge</a>
 							</li>
 							<li>
 								<a href="#">Features</a>
 							</li>
 							<li>
-								<a href="#">FaQ's</a>
+								<a href="#">FAQ</a>
 							</li>
 							<li>
 								<a href="#">Blog</a>
@@ -1114,7 +1115,7 @@
 						</ul>
 					</div>
 					<!-- /.footer-list -->
-					<div class="col-lg-3 col-sm-6 footer-list">
+					<!-- <div class="col-lg-3 col-sm-6 footer-list">
 						<h6 class="title">Support</h6>
 						<ul>
 							<li>
@@ -1130,9 +1131,9 @@
 								<a href="#">Contact</a>
 							</li>
 						</ul>
-					</div>
+					</div> -->
 					<!-- /.footer-list -->
-					<div class="col-lg-3 col-sm-6 footer-newsletter">
+					<!-- <div class="col-lg-3 col-sm-6 footer-newsletter">
 						<h6 class="title">Newsletter</h6>
 						<form action="#">
 							<input type="email" placeholder="Email *" required>
@@ -1160,7 +1161,7 @@
 								</a>
 							</li>
 						</ul>
-					</div>
+					</div> -->
 				</div>
 				<!-- /.row -->
 			</div>
@@ -1171,18 +1172,18 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-6 col-12">
-						<p>&copy; Copyrights 2018. All Rights Reserved.</p>
+						<p>&copy; 2018 Information Softworks. All Rights Reserved.</p>
 					</div>
 					<div class="col-md-6 col-12">
 						<ul>
 							<li>
-								<a href="#">About</a>
+								<a href="#">EMPI 101</a>
 							</li>
 							<li>
-								<a href="#">Solutions</a>
+								<a href="#">Compare</a>
 							</li>
 							<li>
-								<a href="#">FAQ’s</a>
+								<a href="#">Clients</a>
 							</li>
 							<li>
 								<a href="#">Contact</a>
