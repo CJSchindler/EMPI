@@ -172,13 +172,13 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-sm-8">
-					<h3>One Theme is Good Enough for Any Business</h3>
-					<p>It is a long established fact that a reader will be distracted by the readable content of established fact that
-						a reader
-						a page when looking at its layout.</p>
+					<h3>Not sure you need an EMPI?</h3>
+					<p>Duplicate medical records cost hospitals $17.4M per year and lead to thousands of adverse events.
+					Deterministic stop-gap matching only scratches the surface of the problem.</p>
+					<p>Click here to find out how an advanced EMPI will transform your record management and save lives.</p>
 				</div>
 				<div class="col-sm-4 anchor d-flex">
-					<a href="#" class="my_btn align-self-center">Purchase</a>
+					<a href="#" class="my_btn align-self-center">EMPI 101</a>
 				</div>
 			</div>
 		</div>
