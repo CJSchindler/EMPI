@@ -89,14 +89,14 @@
 		<!--Start Slider-->
 		<div class="silder owl-carousel">
 			<!--Start Slide Item-->
-			<div class="slide-item" style="background-image: url(images/slider/1.jpg)">
+			<div class="slide-item" style="background-image: url(images/slider/bluenetwork.jpg)">
 				<div class="overlay"></div>
 				<div class="slide-caption">
 					<div class="slider-inner">
-						<h1 class="caption-title">Find matching records with 99.9% probability</h1>
-						<p class="caption-desc">A high performance Master Person Index is pretty awesome</p>
+						<h1 class="caption-title">StatJoin EMPI</h1>
+						<p class="caption-desc">The highest performance, most accurate EMPI on the market.  Guaranteed.</p>
 						<div class="slide-btn">
-							<a class="animated fadeInUpBig" href="#">Our Services</a>
+							<a class="animated fadeInUpBig" href="#">Learn More</a>
 							<a class="animated fadeInUpBig" href="#">Contact us</a>
 						</div>
 					</div>
@@ -105,14 +105,14 @@
 			<!--End Slide Item-->
 
 			<!--Start Slide Item-->
-			<div class="slide-item" style="background-image: url(images/slider/2.jpg)">
+			<div class="slide-item" style="background-image: url(images/slider/graph.jpg)">
 				<div class="overlay"></div>
 				<div class="slide-caption">
 					<div class="slider-inner">
-						<h1 class="caption-title">Winner of Patient Matching Algorithm Challenge</h1>
-						<p class="caption-desc">National competition of patient matching algorithms</p>
+						<h1 class="caption-title">Fast. Powerful. Precise.</h1>
+						<p class="caption-desc">Our award-winning algorithm easily handles problematic data. Ready to deploy on demand.</p>
 						<div class="slide-btn">
-							<a class="animated fadeInUpBig" href="#">Our Services</a>
+							<a class="animated fadeInUpBig" href="#">Learn more</a>
 							<a class="animated fadeInUpBig" href="#">Contact us</a>
 						</div>
 					</div>
@@ -121,15 +121,16 @@
 			<!--End Slide Item-->
 
 			<!--Start Slide Item-->
-			<div class="slide-item" style="background-image: url(images/slider/3.jpg)">
+			<div class="slide-item" style="background-image: url(images/slider/hands.png)">
 				<div class="overlay"></div>
 				<div class="slide-caption">
 					<div class="slider-inner">
 						<div class="slider-inner">
-							<h1 class="caption-title">How does your EMPI measure up?</h1>
-							<p class="caption-desc">Test your current EMPI with our free audit</p>
+							<h1 class="caption-title">To err is human. To detect is StatJoin.</h1>
+							<p class="caption-desc">Our smart technology detects misspellings, 
+							abbreviations, field swaps, and typos for fewer missed matches.</p>
 							<div class="slide-btn">
-								<a class="animated fadeInUpBig" href="#">Our Services</a>
+								<a class="animated fadeInUpBig" href="#">Learn more</a>
 								<a class="animated fadeInUpBig" href="#">Contact us</a>
 							</div>
 						</div>
@@ -137,6 +138,26 @@
 				</div>
 			</div>
 			<!--End Slide Item-->
+			
+			<!--Start Slide Item-->
+			<div class="slide-item" style="background-image: url(images/slider/bluepeople.jpg)">
+				<div class="overlay"></div>
+				<div class="slide-caption">
+					<div class="slider-inner">
+						<div class="slider-inner">
+							<h1 class="caption-title">Improve patient safety, reduce health care costs</h1>
+							<p class="caption-desc">Our advanced probabilistic algorithm produces more matches and fewer false positives, 
+							to achieve the maximum benefit.</p>
+							<div class="slide-btn">
+								<a class="animated fadeInUpBig" href="#">Learn more</a>
+								<a class="animated fadeInUpBig" href="#">Contact us</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!--End Slide Item-->
+			
 		</div>
 		<!--End Slider-->
 	</section>
@@ -1021,10 +1042,8 @@
 			<div class="row justify-content-center">
 				<div class="col-md-10 col-lg-8">
 					<div class="text-center">
-						<h2 class="section-heading">Free Consultation</h2>
-						<p class="s-top-p">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Loremsum has been
-							the industry's standard
-							dummy text ever since the 1500s.</p>
+						<h2 class="section-heading">Free Audit</h2>
+						<p class="s-top-p">Implementing </p>
 					</div>
 				</div>
 			</div>
