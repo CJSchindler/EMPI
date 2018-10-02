@@ -7,13 +7,13 @@ import org.springframework.web.servlet.ModelAndView;
 @Controller
 public class EmpiController {
 
-	// shows login page
+	// shows index page (main page)
 	@RequestMapping("/")
 	public ModelAndView showIndex() {
 		ModelAndView mav = new ModelAndView("index");
 		return mav;
 	}
-	// new jsp for duplicate index
+	// ***Do Not Use (A Fish)***
 	@RequestMapping("/home")
 	public ModelAndView showHomePage() {
 		ModelAndView mav = new ModelAndView("home");
