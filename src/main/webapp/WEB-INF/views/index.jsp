@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -201,10 +201,8 @@
 			<div class="row">
 				<div class="col-md-6 text-center">
 					<div class="video-content d-inline-block bg-primary">
-						<img src="images/welcome.jpg" class="img-fluid" alt="">
+						<iframe src="https://giphy.com/embed/8FrlI1CHAVZXwsqmkB" width="338" height="480" frameBorder="0" class="giphy-embed"></iframe><p><a href="https://giphy.com/gifs/8FrlI1CHAVZXwsqmkB"></a></p>
 						<div class="overlay w-100 h-100">
-							<a class="bla-1" href="https://vimeo.com/155813398">
-								<i class="fa fa-play theme_buttonA"></i>
 							</a>
 							<div class="lsd"></div>
 						</div>
