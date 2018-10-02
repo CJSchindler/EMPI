@@ -173,8 +173,7 @@
 			<div class="row">
 				<div class="col-sm-8">
 					<h3>Not sure you need an EMPI?</h3>
-					<p>Duplicate medical records cost hospitals $17.4M per year and lead to thousands of adverse events.
-					Deterministic stop-gap matching only scratches the surface of the problem.</p>
+					<p>Duplicate medical records cost hospitals $17.4M per year and lead to hundreds of thousands of adverse events.</p>
 					<p>Click here to find out how an advanced EMPI will transform your record management and save lives.</p>
 				</div>
 				<div class="col-sm-4 anchor d-flex">
@@ -190,10 +189,12 @@
 			<div class="row justify-content-center">
 				<div class="col-md-10 col-lg-8">
 					<div class="text-center">
-						<h2 class="section-heading">About Us</h2>
-						<p class="s-top-p">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Loremsum has been
-							the industry's standard
-							dummy text ever since the 1500s.</p>
+						<h2 class="section-heading">How does your current system measure up?</h2>
+						<p class="s-top-p">In hospitals without an EMPI, an average of 18% of records are duplicates. 
+						As hospitals continue to move toward EHRs, the risk of creating duplicate records increases exponentially.
+						merging EHRs from other hospitals, and working with ACOs, CINs, and OSCs each with
+						their own proprietary systems, and  
+						The system you choose to handle this problem is directly correlated with outcomes and costs.</p>
 					</div>
 				</div>
 			</div>
@@ -216,7 +217,7 @@
 								<h5 class="mb-0">
 									<button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true"
 									 aria-controls="collapseOne">
-										What We Can ?
+										Basic Deterministic Approach
 									</button>
 								</h5>
 							</div>
@@ -234,7 +235,7 @@
 								<h5 class="mb-0">
 									<button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false"
 									 aria-controls="collapseTwo">
-										What We Do ?
+										Intermediate-Advanced Deterministic Approach
 									</button>
 								</h5>
 							</div>
@@ -251,7 +252,7 @@
 								<h5 class="mb-0">
 									<button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false"
 									 aria-controls="collapseThree">
-										Who We Are ?
+										Basic Probabilistic Approach
 									</button>
 								</h5>
 							</div>
@@ -268,7 +269,24 @@
 								<h5 class="mb-0">
 									<button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false"
 									 aria-controls="collapseFour">
-										Why Choose Us ?
+										Intermediate Probabilistic Approach
+									</button>
+								</h5>
+							</div>
+							<div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
+								<div class="card-body">
+									Lorem Ipsum is simply dummy text oftheg and typesetting industry. Loremumhaseen the nmy ustry's standardmy
+									text ever since
+									the my nam end of 1500s.
+								</div>
+							</div>
+						</div>
+						<div class="card">
+							<div class="card-header" id="headingFour">
+								<h5 class="mb-0">
+									<button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false"
+									 aria-controls="collapseFour">
+										Advanced Probabilistic Approach
 									</button>
 								</h5>
 							</div>
