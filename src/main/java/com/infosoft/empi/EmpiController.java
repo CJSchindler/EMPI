@@ -13,7 +13,7 @@ public class EmpiController {
 		ModelAndView mav = new ModelAndView("index");
 		return mav;
 	}
-	// new jsp for duplicate index
+	// new jsp for duplicate index+
 	@RequestMapping("/home")
 	public ModelAndView showHomePage() {
 		ModelAndView mav = new ModelAndView("home");
