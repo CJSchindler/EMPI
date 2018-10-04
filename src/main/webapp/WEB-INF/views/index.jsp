@@ -89,7 +89,7 @@
 		<!--Start Slider-->
 		<div class="silder owl-carousel">
 			<!--Start Slide Item-->
-			<div class="slide-item" style="background-image: url(images/slider/bluenetwork.jpg)">
+			<div class="slide-item" style="background-image: url(images/slider/peoplenetwork.jpg)">
 				<div class="overlay"></div>
 				<div class="slide-caption">
 					<div class="slider-inner">
