@@ -121,7 +121,7 @@
 			<!--End Slide Item-->
 
 			<!--Start Slide Item-->
-			<div class="slide-item" style="background-image: url(images/slider/hands.png)">
+			<div class="slide-item" style="background-image: url(images/slider/handstyping.png)">
 				<div class="overlay"></div>
 				<div class="slide-caption">
 					<div class="slider-inner">
@@ -148,24 +148,6 @@
 							<h1 class="caption-title">Improve safety, reduce costs</h1>
 							<p class="caption-desc">Our advanced probabilistic algorithm produces more matches and fewer false positives, 
 							to achieve your maximum benefit.</p>
-							<div class="slide-btn">
-								<a class="animated fadeInUpBig" href="#">Learn more</a>
-								<a class="animated fadeInUpBig" href="#">Contact us</a>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-			<!--End Slide Item-->
-			
-			<!--Start Slide Item-->
-			<div class="slide-item" style="background-image: url(images/slider/snacks.jpg)">
-				<div class="overlay"></div>
-				<div class="slide-caption">
-					<div class="slider-inner">
-						<div class="slider-inner">
-							<h1 class="caption-title">Hello Snacks</h1>
-							<p class="caption-desc">Hola snackitos, salve pars, bonjour hors-d'oevres, Guten Tag Snacken</p>
 							<div class="slide-btn">
 								<a class="animated fadeInUpBig" href="#">Learn more</a>
 								<a class="animated fadeInUpBig" href="#">Contact us</a>
@@ -407,7 +389,7 @@
 						<p>It's time to optimize your EHR integration with the highest performance EMPI available.</p>
 						<div class="queries">
 							<i class="fa fa-map-marker" aria-hidden="true"></i>
-							<a href="#">Ann Arbor, MI 48108</a>
+							<a href="#">950 Victors Way Suite 50, Ann Arbor, Michigan 48108</a>
 							<br>
 							<i class="fa fa-phone" aria-hidden="true"></i>
 							<a href="#">734 905 3600</a>

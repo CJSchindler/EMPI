@@ -47,7 +47,7 @@
 	<!-- header part start -->
 	<nav class="navbar navbar-expand-lg ">
 		<div class="container">
-			<a class="navbar-brand" href="#">
+			<a class="navbar-brand" href="/">
 				<img src="images/InfoSoft.png" alt="">
 			</a>
 			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
@@ -91,7 +91,7 @@
 			<div class="row justify-content-center">
 				<div class="col-md-10 col-lg-8">
 					<div class="text-center">
-						<h2 class="section-heading">EMPI 101</h2>
+						<h2 class="section-heading"><br>EMPI 101</h2>
 						<p class="s-top-p">Left unchecked, the average duplication rate of medical records is 18%. 
 						Here are just some of the costs.</p>
 					</div>
