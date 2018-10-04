@@ -202,13 +202,13 @@
 								</div>
 								<div class="col-lg-3 col-md-6 col-sm-6 counter-one">
 									<div class="single_counter p-y-2 m-t-1">
-										<h2 class="statistic-counter">1.6</h2>
-										<p>billion in costs</p>
+										</h2><h2 class="statistic-counter">1.2</h2>
+										<p>avg million dollars lost per facility<sup>1</sup></p>
 									</div>
 								</div>
 							</div>
 						</div>
-					</div>
+					</div><small><sup>1</sup>2016 National Patient Misidentification Report, Ponemon Institute LLC</small>
 				</div>
 			</div>
 		</div>
