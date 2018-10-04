@@ -47,7 +47,7 @@
 	<!-- header part start -->
 	<nav class="navbar navbar-expand-lg ">
 		<div class="container">
-			<a class="navbar-brand" href="#">
+			<a class="navbar-brand" href="/">
 				<img src="images/InfoSoft.png" alt="">
 			</a>
 			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
@@ -61,17 +61,17 @@
 						<a class="nav-link" href="#slider">Home</a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link" href="#about">EMPI 101</a>
+						<a class="nav-link" href="/why-mpi">EMPI 101</a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link" href="#service">Compare</a>
+						<a class="nav-link" href="#about">Compare</a>
 					</li>
-					<li class="nav-item">
+					<!-- <li class="nav-item">
 						<a class="nav-link" href="#portfolio">Clients</a>
-					</li>
-					<li class="nav-item">
+					</li> -->
+					<!-- <li class="nav-item">
 						<a class="nav-link" href="#team">Try it</a>
-					</li>
+					</li> -->
 					<!-- <li class="nav-item">
 						<a class="nav-link" href="#pricing">Pricing</a>
 					</li> -->
@@ -93,7 +93,7 @@
 				<div class="overlay"></div>
 				<div class="slide-caption">
 					<div class="slider-inner">
-						<h1 class="caption-title">Multi-Award Winning EMPI</h1>
+						<h1 class="caption-title">Award Winning EMPI</h1>
 						<p class="caption-desc">The highest performance, most accurate Enterprise Master Person Index on the market.  Guaranteed.</p>
 						<div class="slide-btn">
 							<a class="animated fadeInUpBig" href="#">Learn More</a>
@@ -147,7 +147,7 @@
 						<div class="slider-inner">
 							<h1 class="caption-title">Improve safety, reduce costs</h1>
 							<p class="caption-desc">Our advanced probabilistic algorithm produces more matches and fewer false positives, 
-							to achieve the maximum benefit.</p>
+							to achieve your maximum benefit.</p>
 							<div class="slide-btn">
 								<a class="animated fadeInUpBig" href="#">Learn more</a>
 								<a class="animated fadeInUpBig" href="#">Contact us</a>
@@ -211,7 +211,7 @@
 						<p class="s-top-p">In hospitals without an EMPI, an average of 18% of records are duplicates. 
 						As hospitals continue to move toward EHRs and work more closely with ACOs, CINs, and OSCs, 
 						the risk of creating duplicate records increases exponentially. 
-						<i>The system you choose to handle this problem is critical.</i></p>
+						<br><i>The system you choose to handle this problem is critical.</i></p>
 					</div>
 				</div>
 			</div>
@@ -219,7 +219,7 @@
 				<div class="col-md-6 text-center">
 					<div class="video-content d-inline-block bg-primary">
 						<iframe src="https://giphy.com/embed/8FrlI1CHAVZXwsqmkB" width="338" height="480" frameBorder="0" class="giphy-embed"></iframe><p><a href="https://giphy.com/gifs/8FrlI1CHAVZXwsqmkB"></a></p>
-						<div class="overlay w-100 h-100">
+						<div> <!-- class="overlay w-100 h-100" -->
 							</a>
 							<div class="lsd"></div>
 						</div>
@@ -239,7 +239,8 @@
 
 							<div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
 								<div class="card-body">
-									Matches on first and last name + date of birth. Commonly relies only on HIS reports. <br>Misses <b>25%</b> of duplicates on average. 
+									Matches on first and last name + date of birth. <br>Commonly relies only on HIS reports.
+									False positive rate is 10%. <br>Misses <b>87%</b> of duplicates on average. 
 								</div>
 							</div>
 						</div>
@@ -255,7 +256,7 @@
 							<div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
 								<div class="card-body">
 									Takes into account case, spaces, special characters. Features an increasingly complex set of conditional statements. 
-									Suffers from a high rate of false positives.<br>Misses <b>10%</b> of duplicates on average.
+									Suffers from a high rate of false positives.<br>Misses <b>50%</b> of duplicates on average.
 								</div>
 							</div>
 						</div>
@@ -270,7 +271,7 @@
 							</div>
 							<div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
 								<div class="card-body">
-									Calculates the probability that two records refer to the same person. 
+									Uses algorithm to calculate the probability that two records refer to the same person. 
 									<br>Misses up to <b>5%</b> of duplicates on average.
 								</div>
 							</div>
@@ -286,7 +287,7 @@
 							</div>
 							<div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
 								<div class="card-body">
-									Handles special cases, nicknames, cultural naming conventions, custom statistics. 
+									Handles special cases, nicknames, cultural naming conventions, specialized statistics. 
 									<br>Misses <b>1%</b> of duplicates on average.
 								</div>
 							</div>
@@ -318,7 +319,7 @@
 							</div>
 							<div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordion">
 								<div class="card-body">
-									Utilizes the most advanced suite of algorithms. 
+									Utilizes the most advanced suite of algorithms. <br>Customizable. Flexible. Powerful.
 									<br>Misses <b>&lt.01%</b> of duplicates. Prove me wrong.
 								</div>
 							</div>
@@ -341,8 +342,8 @@
 			<div class="row justify-content-center">
 				<div class="col-md-10 col-lg-8">
 					<div class="text-center">
-						<h2 class="section-heading">Contact Us For A Free Audit</h2>
-						<p class="s-top-p">What percent of duplicate records are you missing?
+						<h2 class="section-heading">Reveal Your Risk With A Free Audit</h2>
+						<p class="s-top-p">What percent of duplicate records are you missing?<br>
 						We guarantee our EMPI will out-perform your existing system. Let us show you why.
 						</p>
 					</div>

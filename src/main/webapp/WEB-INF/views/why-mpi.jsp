@@ -11,7 +11,7 @@
 	<title>Information Softworks: Why you need an EMPI</title>
 
 	<!--FAVICON ICON-->
-	<link rel="shortcut icon" type="image/ico" href="images/InfoSoft.jpg">
+	<link rel="shortcut icon" type="image/ico" href="images/isfavicon.ico">
 
 	<!-- Google font links  -->
 	<link href="https://fonts.googleapis.com/css?family=Ubuntu:400,500,700" rel="stylesheet">
@@ -57,26 +57,26 @@
 
 			<div class="collapse navbar-collapse" id="navbarSupportedContent">
 				<ul class="navbar-nav ml-auto">
-					<!-- <li class="nav-item active">
-						<a class="nav-link" href="#slider">Home</a>
+					<li class="nav-item active">
+						<a class="nav-link" href="/">Home</a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link" href="#about">About</a>
-					</li> -->
-					<li class="nav-item">
-						<a class="nav-link" href="#service">EMPI 101</a>
+						<a class="nav-link" href="/why-mpi">EMPI 101</a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link" href="#counter">Counter</a>
+						<a class="nav-link" href="/#about">Compare</a>
 					</li>
 					<!-- <li class="nav-item">
-						<a class="nav-link" href="#team">Team</a>
-					</li>
-					<li class="nav-item">
+						<a class="nav-link" href="#portfolio">Clients</a>
+					</li> -->
+					<!-- <li class="nav-item">
+						<a class="nav-link" href="#team">Try it</a>
+					</li> -->
+					<!-- <li class="nav-item">
 						<a class="nav-link" href="#pricing">Pricing</a>
 					</li> -->
 					<li class="nav-item">
-						<a class="nav-link" href="#consult">Contact</a>
+						<a class="nav-link" href="/#consult">Contact</a>
 					</li>
 				</ul>
 			</div>
@@ -92,7 +92,8 @@
 				<div class="col-md-10 col-lg-8">
 					<div class="text-center">
 						<h2 class="section-heading">EMPI 101</h2>
-						<p class="s-top-p">Left unchecked, the average duplication rate of medical records is 18%. Here is what that 18% costs.</p>
+						<p class="s-top-p">Left unchecked, the average duplication rate of medical records is 18%. 
+						Here are just some of the costs.</p>
 					</div>
 				</div>
 			</div>
@@ -100,7 +101,7 @@
 				<div class="col-md-4">
 					<div class="s-item">
 						<a class="text-center" href="#">
-							<img src="images/service/01.png" alt="">
+							<img src="images/service/heart.png" alt="">
 							<h3>Patient Deaths</h3>
 							<p>Over 100,00 deaths are caused every year by duplicate or "wrong patient" records.
 							</p>
@@ -110,40 +111,9 @@
 				<div class="col-md-4">
 					<div class="s-item">
 						<a class="text-center" href="#">
-							<img src="images/service/01.png" alt="">
-							<h3>$1950 per inpatient stay</h3>
-							<p>Statistic about how expensive duplication is. The average hospital has N patients, coming to $zillion every year.
-							loss of reimbursement from insurers.
-							</p>
-						</a>
-					</div>
-				</div>
-				<div class="col-md-4">
-					<div class="s-item">
-						<a class="text-center" href="#">
-							<img src="images/service/04.png" alt="">
-							<h3>Adverse Events</h3>
-							<p>4 in every 100 cases of duplicate records leads to an adverse event. Scary info on liability.
-							duplicate x-ray exposure</p>
-						</a>
-					</div>
-				</div>
-				<div class="col-md-4">
-					<div class="s-item">
-						<a class="text-center" href="#">
-							<img src="images/service/04.png" alt="">
-							<h3>Drain on resources</h3>
-							<p>Duplicate testing, spending time fixing the problem. 30% of tests are reordered because records are not found.
-							</p>
-						</a>
-					</div>
-				</div>
-				<div class="col-md-4">
-					<div class="s-item">
-						<a class="text-center" href="#">
 							<img src="images/service/05.png" alt="">
-							<h3>Incorrect Medication</h3>
-							<p>Scary stuff about medications
+							<h3>$1950 per inpatient stay</h3>
+							<p>Loss of reimbursement from insurers, bad debt, repeated tests. 
 							</p>
 						</a>
 					</div>
@@ -151,9 +121,39 @@
 				<div class="col-md-4">
 					<div class="s-item">
 						<a class="text-center" href="#">
-							<img src="images/service/06.png" alt="">
-							<h3>Inefficient referrals</h3>
-							<p>All the problems that arise when records are not matched properly between providers.
+							<img src="images/service/injury.png" alt="">
+							<h3>Adverse Events</h3>
+							<p>4 in every 100 cases leads to an adverse event,
+							 opening the door to legal claims.</p>
+						</a>
+					</div>
+				</div>
+				<div class="col-md-4">
+					<div class="s-item">
+						<a class="text-center" href="#">
+							<img src="images/service/nurse.png" alt="">
+							<h3>Drain on resources</h3>
+							<p>Duplicate testing, time fixing the problem. 30% of tests are reordered due to unidentified matches.
+							</p>
+						</a>
+					</div>
+				</div>
+				<div class="col-md-4">
+					<div class="s-item">
+						<a class="text-center" href="#">
+							<img src="images/service/meds.png" alt="">
+							<h3>Medication errors</h3>
+							<p>Scary stuff about medications. Other stuff about allergies. Harms patient, increases cost.
+							</p>
+						</a>
+					</div>
+				</div>
+				<div class="col-md-4">
+					<div class="s-item">
+						<a class="text-center" href="#">
+							<img src="images/service/ambulance.png" alt="">
+							<h3>Continuity</h3>
+							<p>Scary statistic about what happens when records are not matched properly between providers.
 							</p>
 						</a>
 					</div>
@@ -173,8 +173,8 @@
 						<div class="col-md-10 col-lg-8">
 							<div class="text-center">
 								<h2 class="section-heading">The Bottom Line</h2>
-								<p class="s-top-p">Simply put, failure to identify matching patient records
-								leads to massive costs, medical injuries, and even death.</p>
+								<p class="s-top-p">Failure to identify matching patient records
+								leads to massive costs, medical injuries, and even deaths.</p>
 							</div>
 						</div>
 					</div>
@@ -190,20 +190,20 @@
 								</div>
 								<div class="col-lg-3 col-md-6 col-sm-6 counter-one">
 									<div class="single_counter p-y-2 m-t-1">
-										<h2 class="statistic-counter">830</h2>
-										<p>Project Done</p>
+										<h2 class="statistic-counter">1950</h2>
+										<p>$ per patient</p>
 									</div>
 								</div>
 								<div class="col-lg-3 col-md-6 col-sm-6 counter-one">
 									<div class="single_counter p-y-2 m-t-1">
-										<h2 class="statistic-counter">130</h2>
-										<p>Reviewed Clients</p>
+										<h2 class="statistic-counter">11</h2>
+										<p>scariness level</p>
 									</div>
 								</div>
 								<div class="col-lg-3 col-md-6 col-sm-6 counter-one">
 									<div class="single_counter p-y-2 m-t-1">
-										<h2 class="statistic-counter">430</h2>
-										<p>Cup of Tea</p>
+										<h2 class="statistic-counter">1.6</h2>
+										<p>billion in costs</p>
 									</div>
 								</div>
 							</div>
@@ -222,7 +222,7 @@
 			<div class="row justify-content-center">
 				<div class="col-md-10 col-lg-8">
 					<div class="text-center">
-						<h2 class="section-heading">Contact Us For A Free Audit</h2>
+						<h2 class="section-heading">Reveal Your Risk With A Free Audit</h2>
 						<p class="s-top-p">What percent of duplicate records are you missing?
 						We guarantee our EMPI will out-perform your existing system. Let us show you why.
 						</p>
