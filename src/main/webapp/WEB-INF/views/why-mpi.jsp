@@ -190,8 +190,9 @@
 								</div>
 								<div class="col-lg-3 col-md-6 col-sm-6 counter-one">
 									<div class="single_counter p-y-2 m-t-1">
-										<h2 class="statistic-counter">1950</h2>
-										<p>$ per patient</p>
+									<h2 class="h2box" style="float: left">$</h2>
+									<h2 class="statistic-counter" class="h2box2" style="float: right text-align: center">1950</h2>	
+									<p>$ per patient</p>
 									</div>
 								</div>
 								<div class="col-lg-3 col-md-6 col-sm-6 counter-one">
