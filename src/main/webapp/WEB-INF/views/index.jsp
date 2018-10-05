@@ -221,7 +221,8 @@
 
 							<div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
 								<div class="card-body">
-									Matches on first and last name + date of birth. <br>Commonly relies only on HIS reports.
+									Commonly finds matches on first/last name + date of birth. <br>Often relies only on HIS reports.
+									<br>Poor at handling incomplete or complex data.
 									False positive rate is 10%. <br>Misses <b>87%</b> of duplicates on average. 
 								</div>
 							</div>
@@ -237,7 +238,9 @@
 							</div>
 							<div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
 								<div class="card-body">
-									Takes into account case, spaces, special characters. Features an increasingly complex set of conditional statements. 
+									Can take into account case, spaces, special characters, but features an increasingly complex set of conditional statements. 
+									<br>Linkage rules are commonly specific to each set of data. 
+									<br>Requires high rate of human intervention.
 									Suffers from a high rate of false positives.<br>Misses <b>50%</b> of duplicates on average.
 								</div>
 							</div>
@@ -247,7 +250,7 @@
 								<h5 class="mb-0">
 									<button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false"
 									 aria-controls="collapseThree">
-										Basic Probabilistic
+										Basic Probabilistic (Fuzzy)
 									</button>
 								</h5>
 							</div>
