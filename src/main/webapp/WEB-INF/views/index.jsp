@@ -94,7 +94,7 @@
 				<div class="slide-caption">
 					<div class="slider-inner">
 						<h1 class="caption-title">Award Winning EMPI</h1>
-						<p class="caption-desc">The highest performance, most accurate Enterprise Master Person Index on the market.  Guaranteed.</p>
+						<p class="caption-desc">Optimize your EHR integration with the highest performance EMPI available. Guaranteed.</p>
 						<div class="slide-btn">
 							<a class="animated fadeInUpBig" href="#">Learn More</a>
 							<a class="animated fadeInUpBig" href="#">Contact us</a>
@@ -173,7 +173,7 @@
 			<div class="row">
 				<div class="col-sm-8">
 					<h3>Why you need an EMPI</h3>
-					<p>Duplicate medical records cost hospitals $1.5M per year and lead to hundreds of thousands of adverse events.</p>
+					<p>Duplicate medical records cost hospitals $1.2M per year and lead to hundreds of thousands of adverse events.</p>
 					<p>Click here to find out how an advanced EMPI will transform your record management and save lives.</p>
 				</div>
 				<div class="col-sm-4 anchor d-flex">
@@ -221,9 +221,13 @@
 
 							<div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
 								<div class="card-body">
-									Commonly finds matches on first/last name + date of birth. <br>Often relies only on HIS reports.
-									<br>Poor at handling incomplete or complex data.
-									False positive rate is 10%. <br>Misses <b>87%</b> of duplicates on average. 
+								<ul id="supercool">
+									<li>Commonly finds matches on first/last name + date of birth.</li>
+									<li>Often relies only on HIS reports.</li>
+									<li>Poor at handling incomplete or complex data.</li>
+									<li>False positive rate is 10%.</li>
+									<li>Misses 87% of duplicates on average,</li> 
+								</ul>
 								</div>
 							</div>
 						</div>
@@ -238,10 +242,17 @@
 							</div>
 							<div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
 								<div class="card-body">
-									Can take into account case, spaces, special characters, but features an increasingly complex set of conditional statements. 
-									<br>Linkage rules are commonly specific to each set of data. 
-									<br>Requires high rate of human intervention.
-									Suffers from a high rate of false positives.<br>Misses <b>50%</b> of duplicates on average.
+								<ol>
+									<li>Can take into account case, spaces, special characters, but features an increasingly complex set of conditional statements.</li>
+									<li>Linkage rules are commonly specific to each set of data.</li>
+									<li>Requires high rate of human intervention.</li>
+									<li>Suffers from a high rate of false positives.</li>
+									<li>Misses 50% of duplicates on average.</li> 
+								</ol>
+									 
+									<br> 
+									<br>
+									
 								</div>
 							</div>
 						</div>
@@ -328,9 +339,9 @@
 				<div class="col-md-10 col-lg-8">
 					<div class="text-center">
 						<h2 class="section-heading">Reveal Your Risk With A Free Audit</h2>
-						<p class="s-top-p">What percent of duplicate records are you missing?<br>
+						<h5 class="s-top-p">What percent of duplicate records are you missing?<br>
 						We guarantee our EMPI will out-perform your existing system. Let us show you why.
-						</p>
+						</h5>
 					</div>
 				</div>
 			</div>
@@ -387,15 +398,13 @@
 				</div>
 				<div class="row">
 					<div class="col-lg-8 col-sm-6 about-widget">
-						<h6 class="title">Ready to take the next step?</h6>
-						<p>Contact us for your free audit.</p>
-						<p>It's time to optimize your EHR integration with the highest performance EMPI available.</p>
+					<h6 class="title">Contact us for your free audit.</h6>
 						<div class="queries">
 							<i class="fa fa-map-marker" aria-hidden="true"></i>
-							<a href="#">950 Victors Way Suite 50, Ann Arbor, Michigan 48108</a>
+							<a href="https://www.google.com/maps/place/950+Victors+Way+%2350,+Ann+Arbor,+MI+48108/data=!4m2!3m1!1s0x883caf9737fd7785:0xfb4802f96c451d37?sa=X&ved=2ahUKEwil8piD7-_dAhWzKH0KHc2pC5gQ8gEwAHoECAAQAQ" target="_blank">950 Victors Way Suite 50, Ann Arbor, Michigan 48108</a>
 							<br>
 							<i class="fa fa-phone" aria-hidden="true"></i>
-							<a href="#">734 905 3600</a>
+							<a>734 905 3600</a>
 							<br>
 							<i class="fa fa-envelope" aria-hidden="true"></i>
 							<a href="mailto:contracting_info@informationsoftworks.com">contracting_info@informationsoftworks.com</a>
@@ -406,16 +415,10 @@
 						<h6 class="title">Helpful Links</h6>
 						<ul>
 							<li>
-								<a href="https://www.hhs.gov/about/news/2017/11/08/hhs-names-patient-matching-algorithm-challenge-winners.html">Patient Matching Algorithm Challenge</a>
+								<a href="https://www.hhs.gov/about/news/2017/11/08/hhs-names-patient-matching-algorithm-challenge-winners.html" target="_blank">Patient Matching Algorithm Challenge</a>
 							</li>
 							<li>
-								<a href="#">Features</a>
-							</li>
-							<li>
-								<a href="#">FAQ</a>
-							</li>
-							<li>
-								<a href="#">Blog</a>
+								<a href="https://www.tandfonline.com/doi/abs/10.1080/01621459.1969.10501049" target="_blank">Mathematical Theory of Record Linkage</a>
 							</li>
 						</ul>
 					</div>

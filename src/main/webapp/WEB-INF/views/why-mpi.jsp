@@ -103,7 +103,7 @@
 						<a class="text-center" href="#">
 							<img src="images/service/heart.png" alt="">
 							<h3>Patient Deaths</h3>
-							<p>An average of 116,500 deaths are caused every year by duplicate or misidentified records.
+							<p>An average of 116,500 deaths are caused yearly by duplicate or misidentified records.
 							</p>
 						</a>
 					</div>
@@ -112,8 +112,8 @@
 					<div class="s-item">
 						<a class="text-center" href="#">
 							<img src="images/service/05.png" alt="">
-							<h3>$1950 per inpatient stay</h3>
-							<p>Costs include loss of reimbursement, repeated testing, . 
+							<h3>$1950 per Inpatient Stay</h3>
+							<p>Costs include loss of reimbursement, repeated tests, and treatment delays.
 							</p>
 						</a>
 					</div>
@@ -123,7 +123,7 @@
 						<a class="text-center" href="#">
 							<img src="images/service/injury.png" alt="">
 							<h3>Adverse Events</h3>
-							<p>4 in every 100 cases leads to an adverse event,
+							<p>4 in 100 duplicate cases have negative care impact,
 							 opening the door to legal claims.</p>
 						</a>
 					</div>
@@ -132,8 +132,8 @@
 					<div class="s-item">
 						<a class="text-center" href="#">
 							<img src="images/service/nurse.png" alt="">
-							<h3>Drain on resources</h3>
-							<p>Duplicate testing, time fixing the problem. 30% of tests are reordered due to unidentified matches.
+							<h3>Drain on Resources</h3>
+							<p>3 in 10 tests are reordered due to unidentified matches. 
 							</p>
 						</a>
 					</div>
@@ -142,8 +142,8 @@
 					<div class="s-item">
 						<a class="text-center" href="#">
 							<img src="images/service/meds.png" alt="">
-							<h3>Medication errors</h3>
-							<p>Scary stuff about medications. Other stuff about allergies. Harms patient, increases cost.
+							<h3>Medication Errors</h3>
+							<p>Duplication leads to unforeseen drug interactions or missed allergy alerts.
 							</p>
 						</a>
 					</div>
@@ -152,8 +152,8 @@
 					<div class="s-item">
 						<a class="text-center" href="#">
 							<img src="images/service/ambulance.png" alt="">
-							<h3>Continuity</h3>
-							<p>Scary statistic about what happens when records are not matched properly between providers.
+							<h3>Continuity of Care</h3>
+							<p>30% of medical records are missed during patient moves between care settings.
 							</p>
 						</a>
 					</div>
@@ -205,19 +205,20 @@
 									<div class="single_counter p-y-2 m-t-1">
 									<h2 class="h2box" style="float: left">$</h2>
 									<h2 class="statistic-counter" class="h2box2" style="text-align: left;">1950</h2>
-									<p>$ per patient</p>
+									<p>Lost per patient</p>
 									</div>
 								</div>
 								<div class="col-lg-3 col-md-6 col-sm-6 counter-one">
 									<div class="single_counter p-y-2 m-t-1">
-										<h2 class="statistic-counter">1.2</h2>
-										<p>million dollars lost<sup>1</sup></p>
+									<h2 class="h2box" style="float: left">$</h2>
+										<h2 class="statistic-counter" class="h2box2" style="text-align: left;">1.2</h2>
+										<p>Millions lost</p>
 									</div>
 								</div>
 							</div>
 						</div>
 						<br></br>
-					</div><small><sup>1</sup>2016 National Patient Misidentification Report, Ponemon Institute LLC</small>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -232,9 +233,9 @@
 				<div class="col-md-10 col-lg-8">
 					<div class="text-center">
 						<h2 class="section-heading">Reveal Your Risk With A Free Audit</h2>
-						<p class="s-top-p">What percent of duplicate records are you missing?
+						<h5 class="s-top-p">What percent of duplicate records are you missing?
 						We guarantee our EMPI will out-perform your existing system. Let us show you why.
-						</p>
+						</h5>
 					</div>
 				</div>
 			</div>
@@ -291,14 +292,13 @@
 				</div>
 				<div class="row">
 					<div class="col-lg-8 col-sm-6 about-widget">
-						<h6 class="title">Optimize your EHR integration with the highest performance EMPI available.</h6>
-						<p>Contact us for your free audit.</p>
+					<h6 class="title">Contact us for your free audit.</h6>
 						<div class="queries">
 							<i class="fa fa-map-marker" aria-hidden="true"></i>
-							<a href="#">Ann Arbor, MI 48108</a>
+							<a href="https://www.google.com/maps/place/950+Victors+Way+%2350,+Ann+Arbor,+MI+48108/data=!4m2!3m1!1s0x883caf9737fd7785:0xfb4802f96c451d37?sa=X&ved=2ahUKEwil8piD7-_dAhWzKH0KHc2pC5gQ8gEwAHoECAAQAQ" target="_blank">950 Victors Way Suite 50, Ann Arbor, Michigan 48108</a>
 							<br>
 							<i class="fa fa-phone" aria-hidden="true"></i>
-							<a href="#">734 905 3600</a>
+							<a>734 905 3600</a>
 							<br>
 							<i class="fa fa-envelope" aria-hidden="true"></i>
 							<a href="mailto:contracting_info@informationsoftworks.com">contracting_info@informationsoftworks.com</a>
@@ -309,16 +309,10 @@
 						<h6 class="title">Helpful Links</h6>
 						<ul>
 							<li>
-								<a href="https://www.hhs.gov/about/news/2017/11/08/hhs-names-patient-matching-algorithm-challenge-winners.html">Patient Matching Algorithm Challenge</a>
+								<a href="https://www.hhs.gov/about/news/2017/11/08/hhs-names-patient-matching-algorithm-challenge-winners.html" target="_blank">Patient Matching Algorithm Challenge</a>
 							</li>
 							<li>
-								<a href="#">Features</a>
-							</li>
-							<li>
-								<a href="#">FAQ</a>
-							</li>
-							<li>
-								<a href="#">Blog</a>
+								<a href="https://www.tandfonline.com/doi/abs/10.1080/01621459.1969.10501049" target="_blank">Mathematical Theory of Record Linkage</a>
 							</li>
 						</ul>
 					</div>

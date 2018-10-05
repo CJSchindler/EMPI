@@ -1512,3 +1512,6 @@ nav .navbar-nav li:last-child a {
 .h2box2 {
 	padding-right: 2cm;
 }
+ #supercool {
+ list-style-type: none;
+ }
