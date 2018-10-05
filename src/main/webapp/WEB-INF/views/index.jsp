@@ -240,6 +240,7 @@
 								<div class="card-body">
 									Can take into account case, spaces, special characters, but features an increasingly complex set of conditional statements. 
 									<br>Linkage rules are commonly specific to each set of data. 
+									<br>Requires high rate of human intervention.
 									Suffers from a high rate of false positives.<br>Misses <b>50%</b> of duplicates on average.
 								</div>
 							</div>
