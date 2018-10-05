@@ -204,18 +204,19 @@
 								<div class="col-lg-3 col-md-6 col-sm-6 counter-one">
 									<div class="single_counter p-y-2 m-t-1">
 									<h2 class="h2box" style="float: left">$</h2>
-									<h2 class="statistic-counter" class="h2box2" style="float: left width: 50%; text-align: left;">1950</h2>
+									<h2 class="statistic-counter" class="h2box2" style="text-align: left;">1950</h2>
 									<p>$ per patient</p>
 									</div>
 								</div>
 								<div class="col-lg-3 col-md-6 col-sm-6 counter-one">
 									<div class="single_counter p-y-2 m-t-1">
-										</h2><h2 class="statistic-counter">1.2</h2>
+										<h2 class="statistic-counter">1.2</h2>
 										<p>million dollars lost<sup>1</sup></p>
 									</div>
 								</div>
 							</div>
 						</div>
+						<br></br>
 					</div><small><sup>1</sup>2016 National Patient Misidentification Report, Ponemon Institute LLC</small>
 				</div>
 			</div>
