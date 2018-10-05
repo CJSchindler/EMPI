@@ -183,7 +183,6 @@
 					<div class="main_counter_content text-center white-text wow fadeInUp">
 						<div class="rotate">
 							<div class="row">
-
 								<!-- <div class="col-lg-3 col-md-6 col-sm-6 counter-one">
 									<div class="single_counter p-y-2 m-t-1">
 										<h2 class="statistic-counter">116,500</h2>
@@ -198,15 +197,15 @@
 								</div>
 								<div class="col-lg-3 col-md-6 col-sm-6 counter-one">
 									<div class="single_counter p-y-2 m-t-1">
-									<!-- <h2 class="h2box" style="float: left">$</h2> -->
-									<h2 class="statistic-counter" class="h2box2" style="float: right text-align: center">5760</h2>	
+									<h2 class="statistic-counter">5760</h2>	
 									<p>adverse events</p>
 									</div>
 								</div>
 								<div class="col-lg-3 col-md-6 col-sm-6 counter-one">
 									<div class="single_counter p-y-2 m-t-1">
-										<h2 class="statistic-counter">5760</h2>
-										<p>diagnosis/treatment errors</p>
+									<h2 class="h2box" style="float: left">$</h2>
+									<h2 class="statistic-counter" class="h2box2" style="float: left width: 50%; text-align: left;">1950</h2>
+									<p>$ per patient</p>
 									</div>
 								</div>
 								<div class="col-lg-3 col-md-6 col-sm-6 counter-one">
