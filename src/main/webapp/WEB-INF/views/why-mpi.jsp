@@ -93,7 +93,7 @@
 					<div class="text-center">
 						<h2 class="section-heading"><br>EMPI 101</h2>
 						<p class="s-top-p">Left unchecked, the average duplication rate of medical records is 18%. 
-						Here are just some of the costs.</p>
+						<br>What does this mean to your facility?</p>
 					</div>
 				</div>
 			</div>
@@ -103,7 +103,7 @@
 						<a class="text-center" href="#">
 							<img src="images/service/heart.png" alt="">
 							<h3>Patient Deaths</h3>
-							<p>Over 100,00 deaths are caused every year by duplicate or "wrong patient" records.
+							<p>An average of 116,500 deaths are caused every year by duplicate or misidentified records.
 							</p>
 						</a>
 					</div>
@@ -113,7 +113,7 @@
 						<a class="text-center" href="#">
 							<img src="images/service/05.png" alt="">
 							<h3>$1950 per inpatient stay</h3>
-							<p>Loss of reimbursement from insurers, bad debt, repeated tests. 
+							<p>Costs include loss of reimbursement, repeated testing, . 
 							</p>
 						</a>
 					</div>
