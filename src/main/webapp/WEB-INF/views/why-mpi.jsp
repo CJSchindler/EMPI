@@ -174,7 +174,9 @@
 							<div class="text-center">
 								<h2 class="section-heading">The Bottom Line</h2>
 								<p class="s-top-p">Failure to identify matching patient records
-								leads to massive costs, medical injuries, and even deaths.</p>
+								leads to massive costs, medical injuries, and even deaths.
+								<br>A facility with 800,000 records and no EMPI in place
+								will see, on average:</p>
 							</div>
 						</div>
 					</div>
@@ -182,29 +184,35 @@
 						<div class="rotate">
 							<div class="row">
 
-								<div class="col-lg-3 col-md-6 col-sm-6 counter-one">
+								<!-- <div class="col-lg-3 col-md-6 col-sm-6 counter-one">
 									<div class="single_counter p-y-2 m-t-1">
 										<h2 class="statistic-counter">116,500</h2>
 										<p>Deaths per year</p>
 									</div>
-								</div>
+								</div> -->
 								<div class="col-lg-3 col-md-6 col-sm-6 counter-one">
 									<div class="single_counter p-y-2 m-t-1">
-									<h2 class="h2box" style="float: left">$</h2>
-									<h2 class="statistic-counter" class="h2box2" style="float: right text-align: center">1950</h2>	
-									<p>$ per patient</p>
+										<h2 class="statistic-counter">144,000</h2>
+										<p>duplicate records</p>
 									</div>
 								</div>
 								<div class="col-lg-3 col-md-6 col-sm-6 counter-one">
 									<div class="single_counter p-y-2 m-t-1">
-										<h2 class="statistic-counter">11</h2>
-										<p>scariness level</p>
+									<!-- <h2 class="h2box" style="float: left">$</h2> -->
+									<h2 class="statistic-counter" class="h2box2" style="float: right text-align: center">5760</h2>	
+									<p>adverse events</p>
+									</div>
+								</div>
+								<div class="col-lg-3 col-md-6 col-sm-6 counter-one">
+									<div class="single_counter p-y-2 m-t-1">
+										<h2 class="statistic-counter">5760</h2>
+										<p>diagnosis/treatment errors</p>
 									</div>
 								</div>
 								<div class="col-lg-3 col-md-6 col-sm-6 counter-one">
 									<div class="single_counter p-y-2 m-t-1">
 										</h2><h2 class="statistic-counter">1.2</h2>
-										<p>avg million dollars lost per facility<sup>1</sup></p>
+										<p>million dollars lost<sup>1</sup></p>
 									</div>
 								</div>
 							</div>
