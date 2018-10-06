@@ -89,7 +89,7 @@
 		<!--Start Slider-->
 		<div class="silder owl-carousel">
 			<!--Start Slide Item-->
-			<div class="slide-item" style="background-image: url(images/slider/peoplenetwork.jpg)">
+			<div class="slide-item" style="background-image: url(images/slider/main.png)">
 				<div class="overlay"></div>
 				<div class="slide-caption">
 					<div class="slider-inner">
@@ -105,7 +105,7 @@
 			<!--End Slide Item-->
 
 			<!--Start Slide Item-->
-			<div class="slide-item" style="background-image: url(images/slider/graph.jpg)">
+			<div class="slide-item" style="background-image: url(images/slider/fast.png)">
 				<div class="overlay"></div>
 				<div class="slide-caption">
 					<div class="slider-inner">
@@ -140,7 +140,7 @@
 			<!--End Slide Item-->
 			
 			<!--Start Slide Item-->
-			<div class="slide-item" style="background-image: url(images/slider/bluepeople.jpg)">
+			<div class="slide-item" style="background-image: url(images/slider/save.png)">
 				<div class="overlay"></div>
 				<div class="slide-caption">
 					<div class="slider-inner">
