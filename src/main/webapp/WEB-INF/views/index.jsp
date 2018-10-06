@@ -3,9 +3,14 @@
 
 <head>
 	<meta charset="UTF-8">
-	<meta name="description" content="Corporato - MultiPurpose Business, Corporate, Agency web Template">
-	<meta name="keywords" content="business, construction, corporate, creative, hosting, multipurpose, portfolio, responsive, restaurant, wedding">
-	<meta name="author" content="envatoprime">
+	<meta name="description" content="As more facilities move toward Electronic Health Records (EHRs), 
+	the problem of finding records that belong to the same patient across multiple data sources becomes 
+	increasinly problematic. Information Softworks offers a powerful EMPI (Enterprise Master Patient Index) 
+	that provides the most accurate matches with the least false positives.">
+	<meta name="keywords" content="EMPI, enterprise master patient index, enterprise master person index, 
+	medical record matching, master patient index, master person index, patient matching, value of an empi, 
+	EHR matching, record linkage, probabilistic algorithm">
+	<meta name="author" content="Paul Wehr">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<!-- site title -->
 	<title>Information Softworks</title>
@@ -173,7 +178,7 @@
 			<div class="row">
 				<div class="col-sm-8">
 					<h3>Why you need an EMPI</h3>
-					<p>Duplicate medical records cost hospitals $1.2M per year and lead to hundreds of thousands of adverse events.</p>
+					<p>Duplicate and unmatched medical records cost hospitals $1.2M per year and lead to hundreds of thousands of adverse events.</p>
 					<p>Click here to find out how an advanced EMPI will transform your record management and save lives.</p>
 				</div>
 				<div class="col-sm-4 anchor d-flex">
@@ -192,7 +197,7 @@
 						<h2 class="section-heading">How does your current system measure up?</h2>
 						<p class="s-top-p">In hospitals without an EMPI, an average of 18% of records are duplicates. 
 						As hospitals continue to move toward EHRs and work more closely with ACOs, CINs, and OSCs, 
-						the risk of creating duplicate records increases exponentially. 
+						the rate of duplicate records increases exponentially. 
 						<br><i>The system you choose to handle this problem is critical.</i></p>
 					</div>
 				</div>
@@ -222,11 +227,10 @@
 							<div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
 								<div class="card-body">
 								<ul id="supercool">
-									<li>Commonly finds matches on first/last name + date of birth.</li>
-									<li>Often relies only on HIS reports.</li>
+									<li>Simple matching on first/last name + date of birth.</li>
 									<li>Poor at handling incomplete or complex data.</li>
 									<li>False positive rate is 10%.</li>
-									<li>Misses 87% of duplicates on average,</li> 
+									<li>Misses 87% of duplicates on average</li> 
 								</ul>
 								</div>
 							</div>

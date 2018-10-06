@@ -92,8 +92,15 @@
 				<div class="col-md-10 col-lg-8">
 					<div class="text-center">
 						<h2 class="section-heading"><br>EMPI 101</h2>
-						<p class="s-top-p">Left unchecked, the average duplication rate of medical records is 18%. 
-						<br>What does this mean to your facility?</p>
+						<h5>Maria Garcia sees a cardiologist at University Hospital, a gynecologist at Rosewood
+						Clinic, and an endocrinologist at Grand Valley Hospital. </h5>
+						<h5>How will you identify these records when she arrives at your facility?</h5>
+						<p>Hospitals may share medical records but there is <b>no universal patient identifier</b>.  
+						Your challenge is to identify only <i>her</i> records without including those of all
+						the other Maria Garcias in the system.</p>
+						
+						<p class="s-top-p">The cost of duplicate records or record overlays (those incorrectly flagged 
+						as belonging to the same patient) can lead to dire consequences.</p>
 					</div>
 				</div>
 			</div>
