@@ -101,8 +101,8 @@
 						<h1 class="caption-title">Award Winning EMPI</h1>
 						<p class="caption-desc">Optimize your EHR integration with the highest performance EMPI available. Guaranteed.</p>
 						<div class="slide-btn">
-							<a class="animated fadeInUpBig" href="#">Learn More</a>
-							<a class="animated fadeInUpBig" href="#">Contact us</a>
+							<a class="animated fadeInUpBig" href="#about">Learn More</a>
+							<a class="animated fadeInUpBig" href="#consult">Contact us</a>
 						</div>
 					</div>
 				</div>
@@ -117,8 +117,8 @@
 						<h1 class="caption-title">Fast. Powerful. Precise.</h1>
 						<p class="caption-desc">Our suite of advanced algorithms easily handle challenging data. Ready to deploy on demand.</p>
 						<div class="slide-btn">
-							<a class="animated fadeInUpBig" href="#">Learn more</a>
-							<a class="animated fadeInUpBig" href="#">Contact us</a>
+							<a class="animated fadeInUpBig" href="#about">Learn more</a>
+							<a class="animated fadeInUpBig" href="#consult">Contact us</a>
 						</div>
 					</div>
 				</div>
@@ -135,8 +135,8 @@
 							<p class="caption-desc">Our smart technology detects misspellings, 
 							abbreviations, field swaps, and typos for fewer missed matches.</p>
 							<div class="slide-btn">
-								<a class="animated fadeInUpBig" href="#">Learn more</a>
-								<a class="animated fadeInUpBig" href="#">Contact us</a>
+								<a class="animated fadeInUpBig" href="#about">Learn more</a>
+								<a class="animated fadeInUpBig" href="#consult">Contact us</a>
 							</div>
 						</div>
 					</div>
@@ -154,8 +154,8 @@
 							<p class="caption-desc">Our advanced probabilistic algorithm produces more matches and fewer false positives, 
 							to achieve your maximum benefit.</p>
 							<div class="slide-btn">
-								<a class="animated fadeInUpBig" href="#">Learn more</a>
-								<a class="animated fadeInUpBig" href="#">Contact us</a>
+								<a class="animated fadeInUpBig" href="#about">Learn more</a>
+								<a class="animated fadeInUpBig" href="#consult">Contact us</a>
 							</div>
 						</div>
 					</div>

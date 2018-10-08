@@ -109,8 +109,8 @@
 			<div class="row">
 				<div class="col-md-4">
 					<div class="s-item">
-						<a class="text-center" href="#">
-							<img src="images/service/heart.png" alt="">
+						<a class="text-center">
+							<img src="images/service/heart.png" width="60px" alt="">
 							<h3>Patient Deaths</h3>
 							<p>An average of 116,500 deaths are caused yearly by duplicate or misidentified records.
 							</p>
@@ -119,8 +119,8 @@
 				</div>
 				<div class="col-md-4">
 					<div class="s-item">
-						<a class="text-center" href="#">
-							<img src="images/service/05.png" alt="">
+						<a class="text-center">
+							<img src="images/service/moneybag.png" alt="">
 							<h3>$1950 per Inpatient Stay</h3>
 							<p>Costs include loss of reimbursement, repeated tests, and treatment delays.
 							</p>
@@ -129,8 +129,8 @@
 				</div>
 				<div class="col-md-4">
 					<div class="s-item">
-						<a class="text-center" href="#">
-							<img src="images/service/injury.png" alt="">
+						<a class="text-center">
+							<img src="images/service/injury.png" width="60px" alt="">
 							<h3>Adverse Events</h3>
 							<p>4 in 100 duplicate cases have negative care impact,
 							 opening the door to legal claims.</p>
@@ -139,8 +139,8 @@
 				</div>
 				<div class="col-md-4">
 					<div class="s-item">
-						<a class="text-center" href="#">
-							<img src="images/service/nurse.png" alt="">
+						<a class="text-center">
+							<img src="images/service/nurse.png" width="60px" alt="">
 							<h3>Drain on Resources</h3>
 							<p>3 in 10 tests are reordered due to unidentified matches. 
 							</p>
@@ -149,7 +149,7 @@
 				</div>
 				<div class="col-md-4">
 					<div class="s-item">
-						<a class="text-center" href="#">
+						<a class="text-center">
 							<img src="images/service/meds.png" alt="">
 							<h3>Medication Errors</h3>
 							<p>Duplication leads to unforeseen drug interactions or missed allergy alerts.
@@ -159,7 +159,7 @@
 				</div>
 				<div class="col-md-4">
 					<div class="s-item">
-						<a class="text-center" href="#">
+						<a class="text-center">
 							<img src="images/service/ambulance.png" alt="">
 							<h3>Continuity of Care</h3>
 							<p>30% of medical records are missed during patient moves between care settings.
