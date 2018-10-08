@@ -247,7 +247,7 @@
 							<div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
 								<div class="card-body">
 								<ul>
-									<li>&#8226; Handles case, spaces, special characters.
+									<li>&#8226; Case sensitive; handles spaces, special characters.
 									<li>&#8226; Features an increasingly complex set of conditional statements.</li>
 									<li>&#8226; Linkage rules are commonly specific to each set of data.</li>
 									<li>&#8226; Requires high rate of human intervention.</li>
@@ -291,26 +291,8 @@
 									<ul>
 										<li>&#8226; Handles some special cases, cultural naming conventions.</li>
 										<li>&#8226; Difficulty with twins, Jr./Sr. names.</li>
-										<li>&#8226; Poor at handling pediatric cases such as estimated birth dates.</li>
+										<li>&#8226; Poor at handling estimated birth dates.</li>
 										<li>&#8226; <b>Misses 3% of duplicates on average.</b></li>
-									</ul>
-								</div>
-							</div>
-						</div>
-						<div class="card">
-							<div class="card-header" id="headingFour">
-								<h5 class="mb-0">
-									<button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false"
-									 aria-controls="collapseFour">
-										Advanced Probabilistic
-									</button>
-								</h5>
-							</div>
-							<div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
-								<div class="card-body">
-									<ul>
-										<li>&#8226; Handles married names, nicknames.</li>
-										<li>&#8226; <b>Misses 2% of duplicates on average.</b></li>
 									</ul>
 								</div>
 							</div>
@@ -319,12 +301,37 @@
 							<div class="card-header" id="headingFive">
 								<h5 class="mb-0">
 									<button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false"
-									 aria-controls="collapseFive">
-										Information SoftWorks
+									 aria-controls="collapseFour">
+										Advanced Probabilistic
 									</button>
 								</h5>
 							</div>
 							<div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordion">
+								<div class="card-body">
+									<ul>
+										<li>&#8226; Handles married names, nicknames.</li>
+										<li>&#8226; Misses transitive matches.</li>
+										<li>&#8226; Close matches deemed as ....</li>
+										<li>&#8226; <b>Misses 2% of duplicates on average.</b></li>
+									</ul>
+								</div>
+							</div>
+						</div>
+						
+					</div>
+				</div>
+			</div>
+			<br></br>
+			
+			<center><h1 >How do we measure up?</h1></center>
+		
+			<div class="card">
+							<div class="card-header" id="headingFour" style="padding: 20px">
+								<h5 class="mb-0">
+										Information Softworks
+								</h5>
+							</div>
+							<div aria-labelledby="headingFour" >
 								<div class="card-body">
 									<ul>
 										<li>&#8226; Handles twins, Jr./Sr. names, married names, nicknames.</li>
@@ -337,8 +344,6 @@
 								</div>
 							</div>
 						</div>
-					</div>
-				</div>
 			</div>
 		</div>
 	</section>
