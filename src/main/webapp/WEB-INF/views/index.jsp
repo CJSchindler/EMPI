@@ -328,7 +328,7 @@
 								<div class="card-body">
 									<ul>
 										<li>&#8226; Handles twins, Jr./Sr. names, married names, nicknames.</li>
-										<li>&#8226; Addresses human error (typos, swapped fields, estimated dates, etc.)</li>
+										<li>&#8226; Addresses human error (typos, swapped fields, etc.)</li>
 										<li>&#8226; Identifies transitive matches as new data enters the system.</li>
 										<li>&#8226; Utilizes the most advanced suite of algorithms to find the most matches
 										with the fewest false positives.</li>
@@ -357,7 +357,8 @@
 					<div class="text-center">
 						<h2 class="section-heading">Reveal Your Risk With A Free Audit</h2>
 						<h5 class="s-top-p">What percent of duplicate records are you missing?<br>
-						We guarantee our EMPI will out-perform your existing system. Let us show you why.
+						We guarantee our EMPI will out-perform your existing system.<br>
+						Take us for a free test drive.
 						</h5>
 					</div>
 				</div>
