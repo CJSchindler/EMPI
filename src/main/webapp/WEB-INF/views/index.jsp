@@ -205,7 +205,7 @@
 			<div class="row">
 				<div class="col-md-6 text-center">
 					<div class="video-content d-inline-block bg-primary">
-						<iframe src="https://giphy.com/embed/8FrlI1CHAVZXwsqmkB" width="338" height="480" frameBorder="0" class="giphy-embed"></iframe><p><a href="https://giphy.com/gifs/8FrlI1CHAVZXwsqmkB"></a></p>
+						<iframe src="https://giphy.com/embed/1iv9vnVgOVLtLW64eS" width="338" height="480" frameBorder="0" class="giphy-embed"></iframe><p><a href="https://giphy.com/gifs/1iv9vnVgOVLtLW64eS"></a></p>
 						<div> <!-- class="overlay w-100 h-100" -->
 							</a>
 							<div class="lsd"></div>
