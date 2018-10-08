@@ -196,7 +196,7 @@
 					<div class="text-center">
 						<h2 class="section-heading">How does your current system measure up?</h2>
 						<p class="s-top-p">In hospitals without an EMPI, an average of 18% of records are duplicates. 
-						As hospitals continue to move toward EHRs and work more closely with ACOs, CINs, and OSCs, 
+						<br>As hospitals continue to move toward EHRs and work more closely with ACOs, CINs, and OSCs, 
 						the rate of duplicate records increases exponentially. 
 						<br><i>The system you choose to handle this problem is critical.</i></p>
 					</div>
@@ -227,10 +227,10 @@
 							<div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
 								<div class="card-body">
 								<ul id="supercool">
-									<li>Simple matching on first/last name + date of birth.</li>
-									<li>Poor at handling incomplete or complex data.</li>
-									<li>False positive rate is 10%.</li>
-									<li>Misses 87% of duplicates on average</li> 
+									<li>&#8226; Basic matching, usually on first/last name + date of birth.</li>
+									<li>&#8226; Poor at handling incomplete or complex data.</li>
+									<li>&#8226; False positive rate averages 10%.</li>
+									<li>&#8226; <b>Misses 26% of duplicates on average.</b></li> 
 								</ul>
 								</div>
 							</div>
@@ -246,17 +246,14 @@
 							</div>
 							<div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
 								<div class="card-body">
-								<ol>
-									<li>Can take into account case, spaces, special characters, but features an increasingly complex set of conditional statements.</li>
-									<li>Linkage rules are commonly specific to each set of data.</li>
-									<li>Requires high rate of human intervention.</li>
-									<li>Suffers from a high rate of false positives.</li>
-									<li>Misses 50% of duplicates on average.</li> 
-								</ol>
-									 
-									<br> 
-									<br>
-									
+								<ul>
+									<li>&#8226; Handles case, spaces, special characters.
+									<li>&#8226; Features an increasingly complex set of conditional statements.</li>
+									<li>&#8226; Linkage rules are commonly specific to each set of data.</li>
+									<li>&#8226; Requires high rate of human intervention.</li>
+									<li>&#8226; Suffers from high rate of false positives.</li>
+									<li>&#8226; <b>Misses 8% of duplicates on average.</b></li> 
+								</ul>
 								</div>
 							</div>
 						</div>
@@ -265,14 +262,18 @@
 								<h5 class="mb-0">
 									<button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false"
 									 aria-controls="collapseThree">
-										Basic Probabilistic (Fuzzy)
+										Basic Probabilistic
 									</button>
 								</h5>
 							</div>
 							<div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
 								<div class="card-body">
-									Uses algorithm to calculate the probability that two records refer to the same person. 
-									<br>Misses up to <b>5%</b> of duplicates on average.
+									<ul>
+										<li>&#8226; Uses algorithm to calculate probability of a match.</li>
+										<li>&#8226; Poor at handling twins, Jr./Sr. names.</li>
+										<li>&#8226; False positive matches are problematic.</li>
+										<li>&#8226; <b>Misses up to 5% of duplicates on average.</b></li>
+									</ul>
 								</div>
 							</div>
 						</div>
@@ -287,8 +288,12 @@
 							</div>
 							<div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
 								<div class="card-body">
-									Handles special cases, nicknames, cultural naming conventions, specialized statistics. 
-									<br>Misses <b>1%</b> of duplicates on average.
+									<ul>
+										<li>&#8226; Handles some special cases, cultural naming conventions.</li>
+										<li>&#8226; Difficulty with twins, Jr./Sr. names.</li>
+										<li>&#8226; Poor at handling pediatric cases such as estimated birth dates.</li>
+										<li>&#8226; <b>Misses 3% of duplicates on average.</b></li>
+									</ul>
 								</div>
 							</div>
 						</div>
@@ -303,8 +308,10 @@
 							</div>
 							<div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
 								<div class="card-body">
-									Handles transitive matches as new data enters the system.
-									<br>Misses fewer than <b>1%</b> of duplicates on average.
+									<ul>
+										<li>&#8226; Handles married names, nicknames.</li>
+										<li>&#8226; <b>Misses 2% of duplicates on average.</b></li>
+									</ul>
 								</div>
 							</div>
 						</div>
@@ -319,8 +326,14 @@
 							</div>
 							<div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordion">
 								<div class="card-body">
-									Utilizes the most advanced suite of algorithms. <br>Customizable. Flexible. Powerful.
-									<br>Misses <b>&lt.01%</b> of duplicates. Prove me wrong.
+									<ul>
+										<li>&#8226; Handles twins, Jr./Sr. names, married names, nicknames.</li>
+										<li>&#8226; Addresses human error (typos, swapped fields, estimated dates, etc.)</li>
+										<li>&#8226; Identifies transitive matches as new data enters the system.</li>
+										<li>&#8226; Utilizes the most advanced suite of algorithms to find the most matches
+										with the fewest false positives.</li>
+										<li>&#8226; <b>Misses &lt1% of duplicates on average.</b></li>
+									</ul>
 								</div>
 							</div>
 						</div>

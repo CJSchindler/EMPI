@@ -92,6 +92,7 @@
 				<div class="col-md-10 col-lg-8">
 					<div class="text-center">
 						<h2 class="section-heading"><br>EMPI 101</h2>
+<<<<<<< Updated upstream
 						<h5>Maria Garcia sees a cardiologist at University Hospital, a gynecologist at Rosewood
 						Clinic, and an endocrinologist at Grand Valley Hospital. </h5>
 						<h5>How will you identify these records when she arrives at your facility?</h5>
@@ -101,6 +102,10 @@
 						
 						<p class="s-top-p">The cost of duplicate records or record overlays (those incorrectly flagged 
 						as belonging to the same patient) can lead to dire consequences.</p>
+=======
+						<p class="s-top-p">Left unchecked, the average duplication rate of medical records is 18%. 
+						<br>What does this mean to your facility?</p>
+>>>>>>> Stashed changes
 					</div>
 				</div>
 			</div>
@@ -110,7 +115,11 @@
 						<a class="text-center" href="#">
 							<img src="images/service/heart.png" alt="">
 							<h3>Patient Deaths</h3>
+<<<<<<< Updated upstream
 							<p>An average of 116,500 deaths are caused yearly by duplicate or misidentified records.
+=======
+							<p>Over 100,000 deaths are caused every year by duplicate or misidentified records.
+>>>>>>> Stashed changes
 							</p>
 						</a>
 					</div>
@@ -119,8 +128,13 @@
 					<div class="s-item">
 						<a class="text-center" href="#">
 							<img src="images/service/05.png" alt="">
+<<<<<<< Updated upstream
 							<h3>$1950 per Inpatient Stay</h3>
 							<p>Costs include loss of reimbursement, repeated tests, and treatment delays.
+=======
+							<h3>$1950 per inpatient stay</h3>
+							<p>Costs include loss of reimbursement, bad debt, repeated tests. 
+>>>>>>> Stashed changes
 							</p>
 						</a>
 					</div>
