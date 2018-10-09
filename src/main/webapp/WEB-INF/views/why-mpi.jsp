@@ -96,10 +96,14 @@
 			<div class="row justify-content-center">
 				<div class="col-md-10 col-lg-8">
 					<div class="text-center">
-						<h2 class="section-heading"><br>EMPI 101</h2>
-						<h5  align="left">Maria Garcia sees a cardiologist at University Hospital, a gynecologist at Rosewood
-						Clinic, and an endocrinologist at Grand Valley Hospital. </h5>
-						<h5><i>How do you reliably identify her records when she arrives at your facility?</i></h5>
+						<div class="section-heading">
+						<h2 ><br><u>EMPI 101</u></h2>
+						<h4 align="center">Enterprise Master Patient Index</h4>
+						</div>
+						<h5  align="center"><i>Maria Garcia sees a cardiologist at University Hospital, a gynecologist at Rosewood
+						Clinic, and an endocrinologist at Grand Valley Hospital. </i></h5>
+						<h5 align="center">How do you reliably identify her records when she arrives at your facility?</h5>
+						<br>
 						<p align="left">Hospitals may share medical records but there is <b>NO universal patient identifier</b>.  
 						Your challenge is to identify only Maria's records without including those of all
 						the other Maria Garcias in the system.</p>
@@ -399,10 +403,10 @@
 								<a class="nav-link" href="/why-mpi">EMPI 101</a>
 							</li>
 							<li>
-								<a class="nav-link" href="/">Compare</a>
+								<a class="nav-link" href="/#about">Compare</a>
 							</li>
 							<li>
-								<a class="nav-link" href="/">Contact</a>
+								<a class="nav-link" href="/#consult">Contact</a>
 							</li>
 						</ul>
 					</div>
