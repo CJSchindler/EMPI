@@ -3,9 +3,14 @@
 
 <head>
 	<meta charset="UTF-8">
-	<meta name="description" content="Corporato - MultiPurpose Business, Corporate, Agency web Template">
-	<meta name="keywords" content="business, construction, corporate, creative, hosting, multipurpose, portfolio, responsive, restaurant, wedding">
-	<meta name="author" content="envatoprime">
+	<meta name="description" content="As more facilities move toward Electronic Health Records (EHRs), 
+	the problem of finding records that belong to the same patient across multiple data sources becomes 
+	increasinly problematic. Information Softworks offers a powerful EMPI (Enterprise Master Patient Index) 
+	that provides the most accurate matches with the least false positives.">
+	<meta name="keywords" content="EMPI, enterprise master patient index, enterprise master person index, 
+	medical record matching, master patient index, master person index, patient matching, value of an empi, 
+	EHR matching, record linkage, probabilistic algorithm">
+	<meta name="author" content="Paul Wehr">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<!-- site title -->
 	<title>Information Softworks: Why you need an EMPI</title>
@@ -92,17 +97,17 @@
 				<div class="col-md-10 col-lg-8">
 					<div class="text-center">
 						<h2 class="section-heading"><br>EMPI 101</h2>
-						<h5>Maria Garcia sees a cardiologist at University Hospital, a gynecologist at Rosewood
+						<h5  align="left">Maria Garcia sees a cardiologist at University Hospital, a gynecologist at Rosewood
 						Clinic, and an endocrinologist at Grand Valley Hospital. </h5>
-						<h5><i>How will you identify her records when she arrives at your facility?</i></h5>
-						<p>Hospitals may share medical records but there is <b>no universal patient identifier</b>.  
+						<h5><i>How do you reliably identify her records when she arrives at your facility?</i></h5>
+						<p align="left">Hospitals may share medical records but there is <b>NO universal patient identifier</b>.  
 						Your challenge is to identify only Maria's records without including those of all
 						the other Maria Garcias in the system.</p>
 						
-						<p class="s-top-p">The cost of duplicate records or record overlays (those incorrectly flagged 
+						<p class="s-top-p" align="left">The cost of duplicate records or record overlays (those incorrectly flagged 
 						as belonging to the same patient) can lead to dire consequences.</p>
-						<p class="s-top-p">Left unchecked, the average duplication rate of medical records is 18%. 
-						<br>What does this mean to your facility?</p>
+						<p class="s-top-p" align="left">Left unchecked, the average duplication rate of medical records is 18%. 
+						These are just some of the costs of the problem:</p>
 					</div>
 				</div>
 			</div>
