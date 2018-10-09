@@ -194,19 +194,19 @@
 			<div class="row justify-content-center">
 				<div class="col-md-10 col-lg-8">
 					<div class="text-left" padding="200px">
-						<h2 class="section-heading">How does your current system measure up?</h2>
+						<center><h2 class="section-heading">How does your current system measure up?</h2></center>
 						<p class="s-top-p">In hospitals without an EMPI, an average of <i>18% of records are duplicates.</i	> 
 						Even those
 						with a matching system in place still average 12%.
 						As hospitals continue to move toward EHRs and work more closely with ACOs, CINs, and OSCs, 
 						the rate of duplicate records increases exponentially.
 						<br><i>The system you choose to handle this problem is critical.</i> A difference of just
-						1% can prevent adverse events and save millions of dollars in costs. What are you using?</p>
+						1% can prevent adverse events and save millions of dollars in costs. What are you using?</p></center>
 					</div>
 				</div>
 			</div>
 			<div class="row">
-				<div class="col-md-6 text-center">
+				<div class="col-md-6 text-center" id="gifbor" >
 					<div class="video-content d-inline-block bg-primary">
 						<iframe src="https://giphy.com/embed/1iv9vnVgOVLtLW64eS" width="338" height="480" frameBorder="0" class="giphy-embed"></iframe><p><a href="https://giphy.com/gifs/1iv9vnVgOVLtLW64eS"></a></p>
 						<div> <!-- class="overlay w-100 h-100" -->

@@ -1513,5 +1513,11 @@ nav .navbar-nav li:last-child a {
 	padding-right: 2cm;
 }
  #supercool {
- list-style-type: none;
+ 	list-style-type: none;
+ }
+ #gifbor {
+ 	border-style: solid;
+    border-width: medium;
+    background-color: #141c41;
+    border-color: #6FA9C9;
  }
