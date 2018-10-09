@@ -99,7 +99,7 @@
 				<div class="slide-caption">
 					<div class="slider-inner">
 						<h1 class="caption-title">Award Winning EMPI</h1>
-						<p class="caption-desc">Optimize your EHR integration with the highest performance EMPI available. Guaranteed.</p>
+						<p class="caption-desc">Optimize your EHR integration with the highest performance EMPI available. <br>Guaranteed.</p>
 						<div class="slide-btn">
 							<a class="animated fadeInUpBig" href="#about">Learn More</a>
 							<a class="animated fadeInUpBig" href="#consult">Contact us</a>
@@ -115,7 +115,7 @@
 				<div class="slide-caption">
 					<div class="slider-inner">
 						<h1 class="caption-title">Fast. Powerful. Precise.</h1>
-						<p class="caption-desc">Our suite of advanced algorithms easily handle challenging data. Ready to deploy on demand.</p>
+						<p class="caption-desc">Our suite of advanced algorithms easily handle challenging data. <br>Ready to deploy on demand.</p>
 						<div class="slide-btn">
 							<a class="animated fadeInUpBig" href="#about">Learn more</a>
 							<a class="animated fadeInUpBig" href="#consult">Contact us</a>
@@ -132,8 +132,8 @@
 					<div class="slider-inner">
 						<div class="slider-inner">
 							<h1 class="caption-title">To err is human. To detect is StatJoin.</h1>
-							<p class="caption-desc">Our smart technology detects misspellings, 
-							abbreviations, field swaps, and typos for fewer missed matches.</p>
+							<p class="caption-desc">Our StatJoin algorithm detects misspellings, 
+							abbreviations, field swaps, <br>and typos for fewer missed matches.</p>
 							<div class="slide-btn">
 								<a class="animated fadeInUpBig" href="#about">Learn more</a>
 								<a class="animated fadeInUpBig" href="#consult">Contact us</a>
@@ -152,7 +152,7 @@
 						<div class="slider-inner">
 							<h1 class="caption-title">Improve safety, reduce costs</h1>
 							<p class="caption-desc">Our advanced probabilistic algorithm produces more matches and fewer false positives, 
-							to achieve your maximum benefit.</p>
+							<br>providing you with the maximum benefit.</p>
 							<div class="slide-btn">
 								<a class="animated fadeInUpBig" href="#about">Learn more</a>
 								<a class="animated fadeInUpBig" href="#consult">Contact us</a>
@@ -193,12 +193,15 @@
 		<div class="container">
 			<div class="row justify-content-center">
 				<div class="col-md-10 col-lg-8">
-					<div class="text-center">
+					<div class="text-left" padding="200px">
 						<h2 class="section-heading">How does your current system measure up?</h2>
-						<p class="s-top-p">In hospitals without an EMPI, an average of 18% of records are duplicates. 
-						<br>As hospitals continue to move toward EHRs and work more closely with ACOs, CINs, and OSCs, 
-						the rate of duplicate records increases exponentially. 
-						<br><i>The system you choose to handle this problem is critical.</i></p>
+						<p class="s-top-p">In hospitals without an EMPI, an average of <i>18% of records are duplicates.</i	> 
+						Even those
+						with a matching system in place still average 12%.
+						As hospitals continue to move toward EHRs and work more closely with ACOs, CINs, and OSCs, 
+						the rate of duplicate records increases exponentially.
+						<br><i>The system you choose to handle this problem is critical.</i> A difference of just
+						1% can prevent adverse events and save millions of dollars in costs. What are you using?</p>
 					</div>
 				</div>
 			</div>
@@ -309,9 +312,9 @@
 							<div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordion">
 								<div class="card-body">
 									<ul>
-										<li>&#8226; Handles married names, nicknames.</li>
+										<li>&#8226; Addresses married names, nicknames.</li>
 										<li>&#8226; Misses transitive matches.</li>
-										<li>&#8226; Close matches deemed as ....</li>
+										<li>&#8226; Continued difficulty with twins, problematic data.</li>
 										<li>&#8226; <b>Misses 2% of duplicates on average.</b></li>
 									</ul>
 								</div>
@@ -322,28 +325,25 @@
 				</div>
 			</div>
 			<br></br>
-			
-			<center><h1 >How do we measure up?</h1></center>
 		
-			<div class="card">
-							<div class="card-header" id="headingFour" style="padding: 20px">
-								<h5 class="mb-0">
-										Information Softworks
-								</h5>
-							</div>
-							<div aria-labelledby="headingFour" >
-								<div class="card-body">
-									<ul>
-										<li>&#8226; Handles twins, Jr./Sr. names, married names, nicknames.</li>
-										<li>&#8226; Addresses human error (typos, swapped fields, etc.)</li>
-										<li>&#8226; Identifies transitive matches as new data enters the system.</li>
-										<li>&#8226; Utilizes the most advanced suite of algorithms to find the most matches
-										with the fewest false positives.</li>
-										<li>&#8226; <b>Misses &lt1% of duplicates on average.</b></li>
-									</ul>
-								</div>
-							</div>
+			<div>
+				<div class="card-header" id="headingFour" style="padding: 20px">
+					<h3 class="mb-0">Information Softworks</h3>
+				</div>
+					<div aria-labelledby="headingFour" >
+						<div class="card-body">
+								<p style="color:black;">The Information Softworks EMPI is at the leading edge of patient matching technology.
+								Our suite of algorithms is based on nearly 20 years of continuous development 
+							with extensive field testing in real world conditions, including dozens of heterogeneous
+							 sources per instance. </p>
+							 <p style="color:black;">Our comprehensive EMPI handles the complexities of real world data, including 
+							 twins, human error, transitive matches, and incomplete data, ensuring a missed match rate of
+							 <b>less than 1%</b> and an exceptionally high F1 score.</p>
+							 <p style="color:black;"> <b>Combining 
+							 precision with extraordinary speed, Information Softworks is the
+							 solution to the challenge of reliable patient identification.</b></p>
 						</div>
+					</div>
 			</div>
 		</div>
 	</section>
@@ -360,10 +360,8 @@
 			<div class="row justify-content-center">
 				<div class="col-md-10 col-lg-8">
 					<div class="text-center">
-						<h2 class="section-heading">Reveal Your Risk With A Free Audit</h2>
-						<h5 class="s-top-p">What percent of duplicate records are you missing?<br>
-						We guarantee our EMPI will out-perform your existing system.<br>
-						Take us for a free test drive.
+						<h2 class="section-heading">Try A Free Audit</h2>
+						<h5 class="s-top-p">Let us show you the power behind our EMPI, risk-free.<br>
 						</h5>
 					</div>
 				</div>
