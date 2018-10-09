@@ -393,16 +393,16 @@
 					<div class="col-md-6 col-12">
 						<ul>
 							<li>
-								<a href="#">EMPI 101</a>
+							<a class="nav-link" href="/">Home</a>
 							</li>
 							<li>
-								<a href="#">Compare</a>
+								<a class="nav-link" href="/why-mpi">EMPI 101</a>
 							</li>
 							<li>
-								<a href="#">Clients</a>
+								<a class="nav-link" href="/">Compare</a>
 							</li>
 							<li>
-								<a href="#">Contact</a>
+								<a class="nav-link" href="/">Contact</a>
 							</li>
 						</ul>
 					</div>
