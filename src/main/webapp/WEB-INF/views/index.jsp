@@ -195,7 +195,7 @@
 				<div class="col-md-10 col-lg-8">
 					<div class="text-left" padding="200px">
 						<center><h2 class="section-heading">How does your current system measure up?</h2></center>
-						<p class="s-top-p">In hospitals without an EMPI, an average of <i>18% of records are duplicates.</i	> 
+						<center><p class="s-top-p">In hospitals without an EMPI, an average of <i>18% of records are duplicates.</i	> 
 						Even those
 						with a matching system in place still average 12%.
 						As hospitals continue to move toward EHRs and work more closely with ACOs, CINs, and OSCs, 
@@ -230,10 +230,10 @@
 							<div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
 								<div class="card-body">
 								<ul id="supercool">
-									<li>&#8226; Basic matching, usually on first/last name + date of birth.</li>
-									<li>&#8226; Poor at handling incomplete or complex data.</li>
-									<li>&#8226; False positive rate averages 10%.</li>
-									<li>&#8226; <b>Misses 26% of duplicates on average.</b></li> 
+									<li>&#8226; Basic matching: first/last name + date of birth</li>
+									<li>&#8226; Maintains a very low false positive rate</li>
+									<li>&#8226; Poor at handling incomplete or flawed data</li>
+									<li>&#8226; <b>Misses 26% of duplicates</b></li> 
 								</ul>
 								</div>
 							</div>
@@ -250,12 +250,11 @@
 							<div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
 								<div class="card-body">
 								<ul>
-									<li>&#8226; Case sensitive; handles spaces, special characters.
+									<li>&#8226; Requires high rate of human intervention</li>
+									<li>&#8226; Characterized by an exponentially increasing set of complex conditional tests</li>
 									<li>&#8226; Features an increasingly complex set of conditional statements.</li>
-									<li>&#8226; Linkage rules are commonly specific to each set of data.</li>
-									<li>&#8226; Requires high rate of human intervention.</li>
-									<li>&#8226; Suffers from high rate of false positives.</li>
-									<li>&#8226; <b>Misses 8% of duplicates on average.</b></li> 
+									<li>&#8226; Linkage rules are typically implementation specific</li>
+									<li>&#8226; <b>Misses 8% of duplicates</b></li> 
 								</ul>
 								</div>
 							</div>
@@ -272,10 +271,10 @@
 							<div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
 								<div class="card-body">
 									<ul>
-										<li>&#8226; Uses algorithm to calculate probability of a match.</li>
-										<li>&#8226; Poor at handling twins, Jr./Sr. names.</li>
-										<li>&#8226; False positive matches are problematic.</li>
-										<li>&#8226; <b>Misses up to 5% of duplicates on average.</b></li>
+										<li>&#8226; Applies Fellegi-Sunter style algorithm to calculate probability of a match across fields</li>
+										<li>&#8226; Na&iuml;ve about dependent probabilities and social constructs,  e.g. twins, Jr./Sr., address/phone</li>
+										<li>&#8226; False positive matches become problematic</li>
+										<li>&#8226; <b>Misses 5% of duplicates</b></li>
 									</ul>
 								</div>
 							</div>
@@ -292,10 +291,10 @@
 							<div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
 								<div class="card-body">
 									<ul>
-										<li>&#8226; Handles some special cases, cultural naming conventions.</li>
-										<li>&#8226; Difficulty with twins, Jr./Sr. names.</li>
-										<li>&#8226; Poor at handling estimated birth dates.</li>
-										<li>&#8226; <b>Misses 3% of duplicates on average.</b></li>
+										<li>&#8226; Can be tuned for implementation/regional-specific cases</li>
+										<li>&#8226; Aware of cultural conventions (eg. married names)</li>
+										<li>&#8226; Difficulty with typos, transpositions, nicknames</li>
+										<li>&#8226; <b>Misses 3% of duplicates</b></li>
 									</ul>
 								</div>
 							</div>
@@ -312,10 +311,10 @@
 							<div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordion">
 								<div class="card-body">
 									<ul>
-										<li>&#8226; Addresses married names, nicknames.</li>
-										<li>&#8226; Misses transitive matches.</li>
-										<li>&#8226; Continued difficulty with twins, problematic data.</li>
-										<li>&#8226; <b>Misses 2% of duplicates on average.</b></li>
+										<li>&#8226; Extensive use of fuzzy matching algorithms (e.g. Levenshtein, Metaphone)</li>
+										<li>&#8226; Explicit management of transitive matches</li>
+										<li>&#8226; Processing performance becomes a significant issue</li>
+										<li>&#8226; <b>Misses 2% of duplicates</b></li>
 									</ul>
 								</div>
 							</div>
@@ -327,32 +326,47 @@
 			<br></br>
 		
 			<div>
-				<div class="card-header" id="headingFour" style="padding: 20px">
+				<div class="card-header" id="headingFour" style="padding: 18px">
 					<h3 class="mb-0">Information Softworks</h3>
 				</div>
-					<div aria-labelledby="headingFour" >
+					<div aria-labelledby="headingSix">
 						<div class="card-body">
-								<p style="color:black;">The Information Softworks EMPI is at the leading edge of patient matching technology.
-								Our suite of algorithms is based on nearly 20 years of continuous development 
-							with extensive field testing in real world conditions, including dozens of heterogeneous
-							 sources per instance. </p>
-							 <p style="color:black;">Our comprehensive EMPI handles the complexities of real world data, including 
-							 twins, human error, transitive matches, and incomplete data, ensuring a missed match rate of
-							 <b>less than 1%</b> and an exceptionally high F1 score.</p>
-							 <p style="color:black;"> <b>Combining 
-							 precision with extraordinary speed, Information Softworks is the
-							 solution to the challenge of reliable patient identification.</b></p>
+							<ul>
+								<li>&#8226; Embraces inevitable human error (typos, swapped fields, etc.)</li>
+								<li>&#8226; Able to work around missing data</li>
+								<li>&#8226; Adaptive and extensible to include any available supplemental disambiguating information (blood type, height, weight, race, ethnicity, etc.)</li>
+								<li>&#8226; Open source and supported by a suite of analytic tools</li>
+								<li>&#8226; Unique system automatically identifies and resolves suspicious matches; allows for an aggressive matching threshold without increasing false positive rate</l>
+								<li>&#8226; Backed by experienced guidance in enterprise deployment</li>
+								<li>&#8226; <b>Misses less than 1% of duplicates</b></li>
+							</ul>
 						</div>
 					</div>
 			</div>
 		</div>
 	</section>
 	<!-- about part end -->
-
-	
-
-	
-
+	<!-- why Info Softworks start -->
+			<section class="purchase">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-12">
+							<h3>Why Information Softworks?</h3>
+							<p style="color:grey;">The Information Softworks EMPI is at the leading edge of patient matching tech-nology. 
+							Our suite of algorithms is based on nearly 20 years of continuous development with extensive field testing in 
+							real-world conditions, often including dozens of heterogeneous sources per instance. </p>
+							<p style="color:grey;">Our comprehensive EMPI handles the complex reality of identifying patients 
+							across multiple EMR and hospital systems. This includes managing twins, human error, transitive matches, and incomplete data, 
+							to produce a missed match rate of less than 
+							 <b>less than 1%</b> while maintaining an exceptionally high F1 score.</p>
+							 <p style="color:grey;"> <b>Combining precision, extraordinary speed, and expert guidance in integrating the solution into 
+							 your enterprise's information infrastructure, Information Softworks is the solution to the challenge of reliable patient 
+							 identification.</b></p>
+						</div>
+					</div>
+				</div>
+			</section>
+	<!-- why info softworks end -->
 
 	<!-- free consultation start -->
 	<div id="consult" class="consultation-form section-spacing">

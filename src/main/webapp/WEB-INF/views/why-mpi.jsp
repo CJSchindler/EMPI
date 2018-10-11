@@ -94,7 +94,7 @@
 	<section id="service" class="">
 		<div class="container">
 			<div class="row justify-content-center">
-				<div class="col-md-10 col-lg-8">
+				<div class="col-md-10 col-lg-10">
 					<div class="text-center">
 						<div class="section-heading">
 						<h2 ><br><u>EMPI 101</u></h2>
@@ -250,7 +250,7 @@
 			<div class="row justify-content-center">
 				<div class="col-md-10 col-lg-8">
 					<div class="text-center">
-						<h2 class="section-heading">Reveal Your Risk With A Free Audit</h2>
+						<h2 class="section-heading">Reveal Your Risk With A FREE Audit</h2>
 						<h5 class="s-top-p">What percent of duplicate records are you missing?
 						We guarantee our EMPI will out-perform your existing system. Let us show you why.
 						</h5>
