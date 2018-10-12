@@ -5,7 +5,7 @@
 	<meta charset="UTF-8">
 	<meta name="description" content="As more facilities move toward Electronic Health Records (EHRs), 
 	the problem of finding records that belong to the same patient across multiple data sources becomes 
-	increasinly problematic. Information Softworks offers a powerful EMPI (Enterprise Master Patient Index) 
+	increasingly problematic. Information Softworks offers a powerful EMPI (Enterprise Master Patient Index) 
 	that provides the most accurate matches with the least false positives.">
 	<meta name="keywords" content="EMPI, enterprise master patient index, enterprise master person index, 
 	medical record matching, master patient index, master person index, patient matching, value of an empi, 
@@ -336,7 +336,7 @@
 								<li>&#8226; Able to work around missing data</li>
 								<li>&#8226; Adaptive and extensible to include any available supplemental disambiguating information (blood type, height, weight, race, ethnicity, etc.)</li>
 								<li>&#8226; Open source and supported by a suite of analytic tools</li>
-								<li>&#8226; Unique system automatically identifies and resolves suspicious matches; allows for an aggressive matching threshold without increasing false positive rate</l>
+								<li>&#8226; Unique system automatically identifies and resolves suspicious matches; allows for an aggressive matching threshold without increasing false positive rate</li>
 								<li>&#8226; Backed by experienced guidance in enterprise deployment</li>
 								<li>&#8226; <b>Misses less than 1% of duplicates</b></li>
 							</ul>
